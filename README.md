@@ -1,8 +1,9 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Jerico+Ocal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World;+I'm+Jerico+Ocal!;&color=000000" />
 </h1>
+
 
 <h3 align="center">A passionate mobile developer from Philippines 🇵🇭</h3>
 
@@ -13,8 +14,8 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,html,css,mysql,firebase,tailwind" />
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma" /><br>
 </div>
 
 <br/>
