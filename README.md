@@ -21,6 +21,11 @@
 <br/>
 <br/>
 
+<h2 align="center">My Stats</h2>
+<img alt="my programming, tools, framework stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact"/>
+<br/>
+<br/>
+
 <h2 align="center">My Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
