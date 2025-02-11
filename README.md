@@ -13,23 +13,24 @@
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
-<div style="display: flex">
     <div align="center">
-    <div align="center">
-    <img alt="my programming, tools, framework stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
-         style="pointer-events: none; user-select: none;"/>
-</div>
     <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
         style="pointer-events: none; user-select: none;"/>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
         style="pointer-events: none; user-select: none;"/>
     <br>
 </div>
-</div>
 
 <br/>
 <br/>
+
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+        <img alt="my programming, tools, framework stats" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
+             style="pointer-events: none; user-select: none;"/>
+</div>
 
 <br/>
 <br/>
