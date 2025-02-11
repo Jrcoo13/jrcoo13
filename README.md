@@ -23,11 +23,11 @@
             style="pointer-events: none; user-select: none;"/>
     </div>
 
-    <!-- Right Side: GitHub Stats -->
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact"
-            style="pointer-events: none; user-select: none;"/>
-    </div>
+<div>
+    <img alt="my programming, tools, framework stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
+         style="pointer-events: none; user-select: none;"/>
+</div>
 </div>
 
 
