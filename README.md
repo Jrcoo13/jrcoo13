@@ -23,8 +23,11 @@
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-<img readonly alt="my programming, tools, framework stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact"/>
+    <img alt="my programming, tools, framework stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
+         style="pointer-events: none; user-select: none;"/>
 </div>
+
 <br/>
 <br/>
 
