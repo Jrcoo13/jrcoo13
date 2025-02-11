@@ -23,7 +23,7 @@
 
 <h2 align="center">My Stats</h2>
 <div align="center">
-<img alt="my programming, tools, framework stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact"/>
+<img readonly alt="my programming, tools, framework stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact"/>
 </div>
 <br/>
 <br/>
