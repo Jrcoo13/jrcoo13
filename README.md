@@ -14,8 +14,11 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
+        style="pointer-events: none; user-select: none;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
+        style="pointer-events: none; user-select: none;"/>
+    <br>
 </div>
 
 <br/>
