@@ -24,16 +24,15 @@
     padding: 20px;
 ">
     <!-- Left Side: Tools & Languages -->
-    <div style="text-align: center; max-width: 400px;">
+    <div style="text-align: center;">
         <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
-            style="pointer-events: none; user-select: none; width: 100%; max-width: 350px;"/>
+            style="pointer-events: none; user-select: none;"/>
         <br>
         <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
-            style="pointer-events: none; user-select: none; width: 100%; max-width: 350px;"/>
+            style="pointer-events: none; user-select: none;"/>
     </div>
 
-    <!-- Right Side: GitHub Stats -->
-    <div style="max-width: 400px;">
+<div style="max-width: 400px;">
         <img alt="my programming, tools, framework stats" 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
             style="pointer-events: none; user-select: none; width: 100%; max-width: 350px;"/>
