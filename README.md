@@ -11,26 +11,25 @@
 <br/>
 <br/> 
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
-    <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
-        style="pointer-events: none; user-select: none;"/>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
-        style="pointer-events: none; user-select: none;"/>
-    <br>
+<h2 align="center">Languages - Frameworks - Tools</h2>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Left Side: Tools & Languages -->
+    <div style="text-align: center;">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
+            style="pointer-events: none; user-select: none;"/>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
+            style="pointer-events: none; user-select: none;"/>
+    </div>
+
+    <!-- Right Side: GitHub Stats -->
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact"
+            style="pointer-events: none; user-select: none;"/>
+    </div>
 </div>
 
-<br/>
-<br/>
-
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
-<div align="center">
-        <img alt="my programming, tools, framework stats" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
-             style="pointer-events: none; user-select: none;"/>
-</div>
 
 <br/>
 <br/>
