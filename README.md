@@ -13,31 +13,33 @@
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
 
-<h2 align="center">Languages - Frameworks - Tools</h2>
-
 <div style="
     display: flex; 
-    justify-content: center; 
+    justify-content: space-between; 
     align-items: center; 
     gap: 40px; 
-    flex-wrap: wrap; 
+    flex-wrap: nowrap; 
     padding: 20px;
+    max-width: 1000px; 
+    margin: auto;
+    overflow: auto;
 ">
     <!-- Left Side: Tools & Languages -->
-    <div style="text-align: center;">
+    <div style="text-align: center; white-space: nowrap;">
         <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
             style="pointer-events: none; user-select: none;"/>
-        <br>
         <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
             style="pointer-events: none; user-select: none;"/>
     </div>
 
-<div style="max-width: 400px;">
+    <!-- Right Side: GitHub Stats -->
+    <div style="max-width: 400px;">
         <img alt="my programming, tools, framework stats" 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
             style="pointer-events: none; user-select: none;"/>
     </div>
 </div>
+
 
 
 
