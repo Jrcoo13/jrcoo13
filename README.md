@@ -13,7 +13,7 @@
 <div align="center">
     <!-- Left Side: Tools & Languages -->
     <div style="text-align: center; white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,firebase,tailwind"
+        <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,mysql,supabase,tailwind"
             style="pointer-events: none; user-select: none;"/>
         <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio,postman,figma"
             style="pointer-events: none; user-select: none;"/>
