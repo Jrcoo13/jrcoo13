@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,tailwindcss,figma,mysql,supabasehtml,css,postman,vscode,php,dart,flutter,androidstudio,android,ios,xcode"
+      src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,tailwindcss,figma,mysql,supabase,postman,vscode,php,dart,flutter,androidstudio,android,ios,xcode"
     />
   </a>
 </p>
