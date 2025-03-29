@@ -22,9 +22,9 @@
 <div align="center">
     <!-- Left Side: Tools & Languages -->
     <div style="text-align: center; white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,ios,androidstudio,apple,php,java,mysql,supabase,html,css,tailwind"
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,php,java,mysql,supabase,html,css,tailwind"
             style="pointer-events: none; user-select: none;"/>
-        <img src="https://skillicons.dev/icons?i=android,ios,html,css,vscode,androidstudio,postman,figma"
+        <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma"
             style="pointer-events: none; user-select: none;"/>
         <img src="https://go-skill-icons.vercel.app/api/icons?    i=tensorflow,tailwindcss,figma,mysql,supabase,postman,vscode,php,dart,flutter,androidstudio,android,ios,xcode"
             style="pointer-events: none; user-select: none;"/>
