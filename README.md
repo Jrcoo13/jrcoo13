@@ -10,24 +10,10 @@
 <br/>
 <br/> 
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,tailwindcss,figma,mysql,supabase,postman,vscode,php,dart,flutter,androidstudio,android,ios,xcode"
-    />
-  </a>
-</p>
-
-
 <div align="center">
-    <!-- Left Side: Tools & Languages -->
-    <div style="text-align: center; white-space: nowrap;">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,php,java,mysql,supabase,html,css,tailwind"
-            style="pointer-events: none; user-select: none;"/>
-        <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma"
-            style="pointer-events: none; user-select: none;"/>
-        <img src="https://go-skill-icons.vercel.app/api/icons?    i=tensorflow,tailwindcss,figma,mysql,supabase,postman,vscode,php,dart,flutter,androidstudio,android,ios,xcode"
-            style="pointer-events: none; user-select: none;"/>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,php,java,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,android,xcode"
+            style="pointer-events: none; user-select: none; max-width: 100%;">
     </div>
 </div>
 
