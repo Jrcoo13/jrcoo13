@@ -10,9 +10,12 @@
 <br/>
 <br/> 
 
+<!--<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,php,java,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,android,xcode"
+            style="pointer-events: none; user-select: none; max-width: 100%;">-->
+            
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,php,java,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,android,xcode"
+        <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,php,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,android,xcode"
             style="pointer-events: none; user-select: none; max-width: 100%;">
     </div>
 </div>
