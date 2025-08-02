@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World;+I'm+Jerico+Ocal;&color=00FF9C" />
 </h1>
 
-<h3 align="center">Full-Stack Developer | Mobile App Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">Flutter Developer | AI/ML Enthusiast</h3>
 <h4 align="center">Building smart, scalable, and user-focused solutions from 🇵🇭</h4>
 
 <br/>
