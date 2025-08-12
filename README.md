@@ -1,7 +1,7 @@
 <style>
 :root{
-  --size: 200px; /* profile size */
-  --orbit-size: 400px; /* orbit diameter */
+  --size: 200px;
+  --orbit-size: 400px;
   --bg: #0f172a;
 }
 
@@ -161,6 +161,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-</body>
-</html>
