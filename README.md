@@ -1,72 +1,106 @@
 <style>
-    :root{
-      --size: 200px;
-      --orbit-size: 400px;
-      --bg: #0f172a;
-    }
-    *{box-sizing:border-box;margin:0;padding:0}
-    .profile-container{
-      display:flex;align-items:center;justify-content:center;height:100vh;
-      background:transparent;font-family:sans-serif;color:#fff;
-    }
-    .orbit-container{
-      position:relative;width:var(--orbit-size);height:var(--orbit-size);
-      display:flex;align-items:center;justify-content:center;
-    }
-    .profile{
-      justify-content: center;
-      width:var(--size * 2);
-      height:var(--size * 2);
-      overflow:hidden;
-      z-index:2;
-    }
-    .profile img{
-      width:100%;height:100%;object-fit:cover;
-    }
-    .orbit{
-      position:absolute;width:100%;height:100%;
-      z-index:3;
-    }
-    .tech{
-      --angle:0deg;
-      --distance: calc((var(--orbit-size) - var(--size)) / 1.2);
-      position:absolute;
-      left:45%;
-      top:45%;
-      transform:
-        rotate(var(--angle))
-        translate(0, calc(-1 * var(--distance * 2)))
-        rotate(calc(-1 * var(--angle)));
-      width:40px;height:40px;display:flex;align-items:center;justify-content:center;
-      border-radius:50%;
-      transition:background 0.3s;
-      animation: orbit 18s linear infinite;
-      animation-delay: calc(var(--angle) / -440deg * 18s);
-    }
-    .tech:hover{
-      background:rgba(255,255,255,0.15);
-    }
-    .tech img{
-      width:30px;height:30px;object-fit:contain;
-    }
-    @keyframes orbit {
-      from {
-        transform:
-          rotate(0deg)
-          translate(0, calc(-1 * var(--distance)))
-          rotate(0deg);
-      }
-      to {
-        transform:
-          rotate(360deg)
-          translate(0, calc(-1 * var(--distance)))
-          rotate(-360deg);
-      }
-    }
-  </style>
+:root{
+  --size: 200px; /* profile size */
+  --orbit-size: 400px; /* orbit diameter */
+  --bg: #0f172a;
+}
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: transparent;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.orbit-container {
+  position: relative;
+  width: var(--orbit-size);
+  height: var(--orbit-size);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile {
+  width: calc(var(--size) * 2);
+  height: calc(var(--size) * 2);
+  border-radius: 50%;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.profile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.orbit {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+
+.tech {
+  --angle: 0deg;
+  --distance: calc((var(--orbit-size) - var(--size)) / 1.2);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform:
+    rotate(var(--angle))
+    translate(0, calc(-1 * var(--distance)))
+    rotate(calc(-1 * var(--angle)));
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.3s;
+  animation: orbit 18s linear infinite;
+  animation-delay: calc(var(--angle) / -440deg * 18s);
+}
+
+.tech:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.tech img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+@keyframes orbit {
+  from {
+    transform:
+      rotate(0deg)
+      translate(0, calc(-1 * var(--distance)))
+      rotate(0deg);
+  }
+  to {
+    transform:
+      rotate(360deg)
+      translate(0, calc(-1 * var(--distance)))
+      rotate(-360deg);
+  }
+}
+</style>
+
 
 
 <h1 align="center">
