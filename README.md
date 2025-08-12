@@ -1,19 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Hello World</title>
-  <style>
+<style>
     :root{
       --size: 200px;
       --orbit-size: 400px;
       --bg: #0f172a;
     }
     *{box-sizing:border-box;margin:0;padding:0}
-    body{
-/*       display:flex;align-items:center;justify-content:center;height:100vh;
-      background:transparent;font-family:sans-serif;color:#fff; */
+    .profile-container{
+      display:flex;align-items:center;justify-content:center;height:100vh;
+      background:transparent;font-family:sans-serif;color:#fff;
     }
     .orbit-container{
       position:relative;width:var(--orbit-size);height:var(--orbit-size);
@@ -70,8 +64,6 @@
       }
     }
   </style>
-</head>
-<body>
 
 
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
@@ -95,6 +87,7 @@
     </div>
 </div>
 -->
+<div class="profile-container">
 <div class="orbit-container">
     <div class="profile">
       <img src="profile.jpg" alt="Profile Photo">
@@ -113,6 +106,7 @@
       <div class="tech" style="--angle:400deg"><img src="tensorflow.svg" alt="Supabase"></div>
     </div>
   </div>
+</div>
 
 <br/>
 <br/>
