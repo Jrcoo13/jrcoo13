@@ -1,21 +1,3 @@
-
-
-<h2 class="text-center">Stats</h2>
-<div class="flex justify-center">
-  <img alt="Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact" 
-       class="select-none" />
-</div>
-
-<h2 class="text-center mt-8">My Contributions</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World;+I'm+Jerico+Ocal;&color=00FF9C" />
 </h1>
