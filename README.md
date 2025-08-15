@@ -26,6 +26,26 @@
 
 ---
 
+
+## 🚀 Projects  
+
+### 📱 **PSITS Attendance App**  
+A mobile application for event attendance tracking using **Flutter**, **PHP API**, and **MySQL**.  
+- 🔹 Features QR code scanning for quick check-ins.  
+- 🔹 Integrated user registration and profile management.  
+- 🔹 Real-time event updates with likes & comments.  
+[🔗 View Repository](https://github.com/Jrcoo13/psits_attendance_app)  
+
+---
+
+### 🤖 **Fruit Classifier (AI/ML)**  
+An image classification app using **TensorFlow Lite** and **Flutter**.  
+- 🔹 Classifies fruits in real-time using a custom-trained YOLO model.  
+- 🔹 Runs fully on-device for offline functionality.  
+[🔗 View Repository](#)   
+
+---
+
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jrcoo13&show_icons=true&theme=transparent&title_color=00FF9C&text_color=FFFFFF&icon_color=00FF9C&hide_border=true" height="170" alt="GitHub Stats" />
