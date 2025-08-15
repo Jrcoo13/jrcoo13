@@ -30,7 +30,7 @@
 ## 🚀 Projects  
 
 ### 📱 **PSITS Attendance App**  
-A mobile application for event attendance tracking using **Flutter**, **PHP API**, and **MySQL**.  
+A mobile application for event attendance tracking using **Flutter**, **Dart**,  **PHP API**, and **MySQL**.  
 - 🔹 Features QR code scanning for quick check-ins.  
 - 🔹 Integrated user registration and profile management.  
 - 🔹 Real-time event updates with likes & comments.  
