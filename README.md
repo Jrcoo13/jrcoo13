@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />  
-  <h4>Crafting smart, scalable, and user-focused solutions from 🇵🇭</h4>
+  <h4>I’m a 4th-year IT student and self-taught programmer, crafting smart, scalable, and user-focused solutions from the Philippines🇵🇭</h4>
 </div>
 
 ---
@@ -14,14 +14,15 @@
 - 💻 Full Stack Developer specializing in **Flutter** & **Laravel**  
 - 🤖 Passionate about **AI/ML** & **mobile innovation**  
 - 🎯 Always aiming for **clean, scalable, and user-friendly apps**  
-- 🌱 Currently exploring **TensorFlow Lite** for on-device AI  
+- 🌱 Currently learning Python programming for machine learning and exploring TensorFlow Lite for on-device AI in mobile applications.  
 
 ---
 
 ## 🛠 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,androidstudio,xcode,android,apple" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,colab" />
 </div>
+
 
 ---
 
