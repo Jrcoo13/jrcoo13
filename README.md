@@ -39,12 +39,14 @@ A mobile application built with **Flutter**, **Dart**, **Laravel**, **MySQL**, *
 
 [🔗 View Repository](https://github.com/Jrcoo13/AIMera-app)  
 
-###  DOS Insects Classification App  
+### 🪲  **DOS Insects Classification App**  
 A mobile app that detects and classifies insects native to Datu Odin Sinsuat—all on-device and fully functional offline.  
 - 🔹 Built with **Flutter** and **Dart** for performance and smooth UI.  
-- 🔹 Utilizes a custom-trained **machine learning model** for accurate classification.  
-- 🔹 Designed for **offline use**, ideal for remote or field environments.  
-- 🔹 Perfect for students, researchers, and citizen scientists interested in local insect biodiversity.
+- 🔹 Powered by a custom-trained **TensorFlow Lite model** developed using **Google’s Teachable Machine**.
+- 🔹 Model trained with a curated dataset of insect images from Datu Odin Sinsuat for **high accuracy in local species recognition**. 
+- 🔹 Uses **Google ML Kit** for real-time image classification.
+- 🔹 Implements **BLoC state management** for scalable, predictable, and maintainable app behavior.
+- 🔹 Designed for **offline use**, making it practical for fieldwork and remote areas. 
 
 [🔗 View Repository](https://github.com/Jrcoo13/DOS_Insects_Classification_App)
 
