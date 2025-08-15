@@ -58,13 +58,6 @@ A mobile application for event attendance tracking using **Flutter**, **Dart**, 
 
 [🔗 View Repository](https://github.com/Jrcoo13/psits_attendance_app)  
 
-### 🤖 **Fruit Classifier (AI/ML)**  
-An image classification app using **TensorFlow Lite** and **Flutter**.  
-- 🔹 Classifies fruits in real-time using a custom-trained YOLO model.  
-- 🔹 Runs fully on-device for offline functionality.  
-
-[🔗 View Repository](#)   
-
 ---
 
 ## 📊 GitHub Stats  
