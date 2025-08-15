@@ -29,19 +29,29 @@
 
 ## 🚀 Projects  
 
+### 🤖 **AIMera App – AI Flashcards Generator**  
+A mobile application built with **Flutter**, **Dart**, **Laravel**, **MySQL**, **PHP**, and **Gemini AI**.  
+- 🔹 Generates flashcards automatically using **Gemini AI**.  
+- 🔹 Supports file uploads in **PDF**, **Word**, and **TXT** formats.  
+- 🔹 Designed for students to quickly create study materials from documents.  
+- 🔹 Implements **SOLID principles** for clean, maintainable code.  
+- 🔹 Uses **BLoC state management** for scalable and predictable app behavior.  
+
+[🔗 View Repository](https://github.com/Jrcoo13/AIMera-app)  
+
 ### 📱 **PSITS Attendance App**  
 A mobile application for event attendance tracking using **Flutter**, **Dart**,  **PHP API**, and **MySQL**.  
 - 🔹 Features QR code scanning for quick check-ins.  
 - 🔹 Integrated user registration and profile management.  
 - 🔹 Real-time event updates with likes & comments.  
-[🔗 View Repository](https://github.com/Jrcoo13/psits_attendance_app)  
 
----
+[🔗 View Repository](https://github.com/Jrcoo13/psits_attendance_app)  
 
 ### 🤖 **Fruit Classifier (AI/ML)**  
 An image classification app using **TensorFlow Lite** and **Flutter**.  
 - 🔹 Classifies fruits in real-time using a custom-trained YOLO model.  
 - 🔹 Runs fully on-device for offline functionality.  
+
 [🔗 View Repository](#)   
 
 ---
