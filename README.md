@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />  
-  <h4>I’m a 4th-year IT student and self-taught programmer, crafting smart, scalable, and user-focused solutions from the Philippines🇵🇭</h4>
+  <h4>I’m a 4th-year IT student and self-taught programmer from the Philippines🇵🇭</h4>
 </div>
 
 ---
