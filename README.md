@@ -10,6 +10,13 @@
 
 ---
 
+## ⚖️ Pros & Cons About Me  
+
+**Cons:** I fail often, I’m not the best programmer, I learn slowly, forget things easily, and I burn out quickly when coding.  
+**Pros:** I never give up.  
+
+---
+
 ## 🚀 About Me  
 - 💻 Full Stack Developer specializing in **Flutter** & **Laravel**  
 - 🤖 Passionate about **AI/ML** & **mobile innovation**  
