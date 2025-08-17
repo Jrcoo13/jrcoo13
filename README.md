@@ -27,14 +27,14 @@
 
 ## 🛠 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,supabase,html,css,tailwind,tensorflow,figma,postman,vscode,colab" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,supabase,html,css,tailwind,tensorflow" />
 </div>
 
 
 ---
 
 
-## 🚀 Projects  
+## 💻 Projects  
 
 ### 🤖 **AIMera App – AI Flashcards Generator**  
 A mobile application built with **Flutter**, **Dart**, **Laravel**, **MySQL**, **PHP**, and **Gemini AI**.  
