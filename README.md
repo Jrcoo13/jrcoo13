@@ -75,13 +75,6 @@ A mobile application for event attendance tracking using **Flutter**, **Dart**, 
 
 ---
 
-## 🏆 Achievements  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jrcoo13&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
-
----
-
 ## 🐍 Contribution Graph  
 <div align="center">
   <picture>
