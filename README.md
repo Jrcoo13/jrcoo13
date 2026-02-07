@@ -64,25 +64,7 @@ A mobile application for event attendance tracking using **Flutter**, **Dart**, 
 - 🔹 Real-time event updates with likes & comments.  
 
 [🔗 View Repository](https://github.com/Jrcoo13/psits_attendance_app)  
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jrcoo13&show_icons=true&theme=transparent&title_color=00FF9C&text_color=FFFFFF&icon_color=00FF9C&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrcoo13&layout=compact&theme=transparent&title_color=00FF9C&text_color=FFFFFF&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
----
-
-## 🐍 Contribution Graph  
-##<div align="center">
-##  <picture>
-##    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-##    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-##    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-##  </picture>
-##</div>
+>
 
 ---
 
