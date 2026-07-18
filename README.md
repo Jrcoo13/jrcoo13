@@ -27,7 +27,7 @@
 
 ## 🛠 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,supabase,html,css,tailwind,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,firebase,supabase,react,html,css,tailwind,tensorflow" />
 </div>
 
 
