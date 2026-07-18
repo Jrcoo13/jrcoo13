@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&center=true&vCenter=true&width=500&height=70&color=00FF9C&lines=Hello+World!;I'm+Jerico+Ocal;Flutter+Developer;AI%2FML+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&center=true&vCenter=true&width=500&height=70&color=00FF9C&lines=Hello+World!;I'm+Jerico+Ocal;Mobile+App+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />  
-  <h4>I’m a 4th-year IT student and self-taught programmer from the Philippines🇵🇭</h4>
+  <h4>I’m an IT graduate, self-taught programmer, and passionate software developer from the Philippines 🇵🇭</h4>
 </div>
 
 ---
